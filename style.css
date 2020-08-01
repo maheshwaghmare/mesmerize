@@ -4954,8 +4954,8 @@ img.custom-logo {
   display: inline-block;
 }
 
-.fixto-fixed a.logo-link.dark + a.custom-logo-link,
-.coloured-nav a.logo-link.dark + a.custom-logo-link {
+.fixto-fixed a.logo-link.dark + .custom-logo-link,
+.coloured-nav a.logo-link.dark + .custom-logo-link {
   display: none;
 }
 
